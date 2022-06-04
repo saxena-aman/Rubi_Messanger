@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782721553814",
+    "project_id": "rubi-messanger",
+    "storage_bucket": "rubi-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782721553814:android:449b0fd0bd6562bacf79b7",
+        "android_client_info": {
+          "package_name": "com.example.rubimessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782721553814-isukmdnt3s5qs0f0nka7o71aq73tmkuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpmCr_iAUiDiSwPFZEYsZZS-zk6tRglYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782721553814-isukmdnt3s5qs0f0nka7o71aq73tmkuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
