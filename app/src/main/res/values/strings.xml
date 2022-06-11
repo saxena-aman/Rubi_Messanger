@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Rubi Messanger</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_otp_on_this_number">We will send you an OTP on this Number</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="_91">+91-</string>
+    <string name="_123567890">XXXXXXXXXX</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp">OTP has send to</string>
+    <string name="didn_t_received_the_otp">Didn\'t Received the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify_otp">Verify OTP</string>
 </resources>

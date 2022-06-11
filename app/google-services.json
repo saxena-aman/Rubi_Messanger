@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "782721553814-jl57outu32orkf754625c0p45f6kv4sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubimessanger",
+            "certificate_hash": "038c628d1e078f166c4dc2df9e6b38929dc2b31f"
+          }
+        },
+        {
           "client_id": "782721553814-isukmdnt3s5qs0f0nka7o71aq73tmkuo.apps.googleusercontent.com",
           "client_type": 3
         }
